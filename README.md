@@ -1,7 +1,8 @@
 ## Digital Forensics Ethics Challenge  by Juled Mardodaj 
 
 A comprehensive educational web-based challenge designed for cybersecurity students to explore **Ethical Considerations in Digital Forensics Investigations** through hands-on technical analysis and critical thinking.
-
+### Link to try |
+https://juledmardodaj-cyberchallenge.glitch.me/
 ### 🔍 Challenge Overview
 
 Students investigate a sensitive case involving a deceased corporate whistleblower whose laptop contained an anonymous disclosure document. The challenge combines technical digital forensics skills with ethical decision-making frameworks commonly faced by cybersecurity professionals.
